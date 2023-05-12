@@ -1,2 +1,2 @@
 # indepth
-Indepth client application (Indepth automates code refactoring and remediation)
+Indepth client application (Indepth automates java code refactoring and remediation)
