@@ -8,11 +8,13 @@
 **Indepth-cli** analyzes your java source code on your workstation and automatically discovers bad development practices or defects, bugs often referenced by the Sonarqube solution. 
 It also automatically applies patches to the source code.
 
+**Indepth-cli** is very flexible. It allows you to declare the part of the project on which you want to analyze and apply fixes. 
+You can also run it in dry run mode and analyze the patches that would have been applied if you had asked them to be applied automatically.
+
+
 Be careful because although **Indepth-cli** is very carefully tested, the application can sometimes introduce bugs. 
 It is therefore essential that you run your automatic or manual tests after modifying your application to verify that **Indepth-cli** has not introduced any bugs.
 
-**Indepth-cli** is very flexible. It allows you to declare the part of the project on which you want to analyze and apply fixes. 
-You can also run it in dry run mode and analyze the patches that would have been applied if you had asked them to be applied automatically.
 
 The **Indepth-cli** app is **free** to use for open source projects.
 
