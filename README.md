@@ -56,6 +56,10 @@ Watch the video
 
 https://www.indepth.fr/video/Install_indepth_client_app.mp4
 
+<figure class="video_container">
+  <iframe src="https://www.indepth.fr/video/Install_indepth_client_app.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 
 
 	
