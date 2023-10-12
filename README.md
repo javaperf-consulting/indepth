@@ -49,9 +49,8 @@ Launch a console then move to the directory where **Indepth-cli** was copied.
 Then launch **Indepth-cli** with the following command java -jar indepth-cli-&lt;version&gt;.jar
 
 
-Watch the video
-
-<video width="630" height="300" src="https://www.indepth.fr/video/Install_indepth_client_app.mp4"></video>
+Watch the video 
+https://www.indepth.fr/video/Install_indepth_client_app.mp4
 
 
 ### DOCUMENTATION
