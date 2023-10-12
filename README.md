@@ -1,7 +1,4 @@
 
-<a href="https://www.indepth.fr"><img src="https://www.indepth.fr/img/logo-indepth-black-tr.png"></a>
-
-
 
 
 **Indepth-cli** is the client interface of an application whose goal is to fix defects in applications developed with the Java language (Indepth automates java code refactoring and remediation).
@@ -54,11 +51,10 @@ Then launch **Indepth-cli** with the following command java -jar indepth-cli-&lt
 
 Watch the video
 
-https://www.indepth.fr/video/Install_indepth_client_app.mp4
 
-<figure class="video_container">
-  <iframe src="https://www.indepth.fr/video/Install_indepth_client_app.mp4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<a href="https://www.indepth.fr"><img src="https://www.indepth.fr/img/logo-indepth-black-tr.png"></a>
+
+
 
 
 
