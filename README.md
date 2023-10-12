@@ -54,6 +54,8 @@ Then launch **Indepth-cli** with the following command java -jar indepth-cli-&lt
 
 [![Watch the video]](https://www.indepth.fr/video/Install_indepth_client_app.mp4)
 
+[![asciicast](https://asciinema.org/a/113463.png)](https://www.indepth.fr/video/Install_indepth_client_app.mp4)
+
 
 	
 
