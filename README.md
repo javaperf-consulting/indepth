@@ -26,7 +26,7 @@ For more information please visit the website https://www.indepth.fr
 
 Software teams spend a significant amount of time trying to locate defects and fix bugs. 
 Fixing a bug involves isolating the part of the code that causes unexpected behavior of the program and changing it to correct the error. 
-Bug fixing is a challenging task, and developers often spend more time fixing bugs and making the codemore maintainable than developing new features.
+Bug fixing is a challenging task, and developers often spend more time fixing bugs and making the code more maintainable than developing new features.
 
 **Indepth** was developed to meet these challenges. Improve code quality quickly and thoroughly while letting developers develop value-added features.
 
@@ -50,6 +50,12 @@ Copy the application to any directory.
 Launch a console then move to the directory where **Indepth-cli** was copied.
 
 Then launch **Indepth-cli** with the following command java -jar indepth-cli-&lt;version&gt;.jar
+
+
+<video width="320" height="240" controls autoplay>
+      <source src="video/Install_indepth_client_app.mp4" type=video/mp4>
+</video>
+	
 
 ### DOCUMENTATION
 
