@@ -52,9 +52,8 @@ Launch a console then move to the directory where **Indepth-cli** was copied.
 Then launch **Indepth-cli** with the following command java -jar indepth-cli-&lt;version&gt;.jar
 
 
-<video width="320" height="240" controls autoplay>
-      <source src="video/Install_indepth_client_app.mp4" type=video/mp4>
-</video>
+https://www.indepth.fr/video/Install_indepth_client_app.mp4"
+
 	
 
 ### DOCUMENTATION
