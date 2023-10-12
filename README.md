@@ -51,7 +51,7 @@ Then launch **Indepth-cli** with the following command java -jar indepth-cli-&lt
 
 Watch the video
 
-<a href="https://www.indepth.fr"><video><source src="https://www.indepth.fr/video/Install_indepth_client_app.mp4" type="video/mp4"></video></a>
+<video width="630" height="300" src="https://www.indepth.fr/video/Install_indepth_client_app.mp4"></video>
 
 
 ### DOCUMENTATION
