@@ -53,6 +53,82 @@ Watch the video
 https://www.indepth.fr/video/Install_indepth_client_app.mp4
 
 
+### Indepth cli commands
+
+```
+Built-In Commands
+       help: Display help about available commands
+       stacktrace: Display the full stacktrace of the last error.
+       clear: Clear the shell screen.
+       quit, exit: Exit the shell.
+       history: Display or save the history of previously run commands
+       version: Show version info
+       script: Read and execute commands from a file.
+
+Project commandes
+       license: Show license information
+       signin: Signin
+       unregister: Unregister user
+       project: Create or update a project
+       run: Run a remediation
+       rules: Select a rule to apply
+       exec: Displays information corresponding to the command [history|summary|details] respectively
+        - The history of executions;
+        - The summary of an execution;
+        - The detail of an execution;
+       register: Register new user
+```
+
+## Registration
+
+Before any use, it is necessary to create an account. 
+Be careful because this data will no longer be editable. 
+They will be used to secure access to data resulting from code remediations that you will subsequently carry out.
+
+## User profil
+
+Overall there are 3 usage profiles:
+
+- during registration you are considered as a user wishing to test the application. 
+You can use all features that do not require higher rights. 
+But you will only be able to use Indepth in a demonstration mode which does not allow you to modify existing code. 
+You will only be able to see what Indepth would have done if you had a commercial license. 
+
+**For open source projects, code modifications are made free of charge at the user's request.**
+
+- If your company has a commercial license, you will be able to request Indepth to make changes to your code within the limits of the credits available on the company's license.
+The features that you can use again depend on your profile. 
+If you are designated as a **solution administrator** you will have more possibilities than enterprise users who are not an Indepth administrator. 
+For example, you can deregister users when they leave the company.
+The designation of the administrator(s) of the solution is made when requesting the license.
+
+## Project setup
+
+The project must be developed in java. 
+It must be a Maven project. Gradle projects are not yet supported. 
+Indepth supports java versions 8 to 18. 
+You can also declare a git repository as source or a local directory on your workstation. 
+If you are working on an Open source project we invite you to configure the git repository otherwise your project will not be considered an Open source project and you will not be able to apply the modifications made by Indepth.
+
+## Rules setup
+
+Before launching a remediation you must configure the rule to apply. 
+You cannot currently specify multiple rules because we believe code remediation should be done very carefully.
+
+## Start a code remediation
+
+If you have a commercial license or the project is open source, you can instruct Indepth not to apply code changes (dry run mode). 
+
+In this case you will be able to observe the modifications that the solution could make to your code. 
+
+For commercial licenses (not open source projects) if you ask Indepth to apply changes in the code, credits will be consumed from the enterprise license. 
+There will not be the possibility of canceling the consumption of credits.
+
+## Reporting
+
+You can analyze previous results at any time.
+You can see the history of code remediation executions, or view a summary of an execution or even view, in the form of a diff, the details of an execution, i.e. the code modifications made or suggested by Indepth.
+
 
 ### DOCUMENTATION
 
