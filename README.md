@@ -3,7 +3,7 @@
 
 **Indepth-cli** is the client interface of an application whose goal is to fix defects in applications developed with the Java language (Indepth automates java code refactoring and remediation).
 
-**Indepth-cli** analyzes your java source code on your workstation and automatically discovers bad development practices or defects, bugs often referenced by the Sonarqube solution. 
+**Indepth-cli** analyzes your java source code on your workstation and automatically discovers bad development practices, defects or bugs (that are often referenced by Sonarqube). 
 It also automatically applies patches to the source code.
 
 **Indepth-cli** is very flexible. It allows you to declare the part of the project on which you want to analyze and apply fixes. 
