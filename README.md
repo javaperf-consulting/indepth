@@ -109,34 +109,34 @@ The designation of the administrator(s) is made when requesting your Indepth lic
 ## Project setup
 
 The project must be developed in java. 
-It must be a Maven project. Gradle projects are not yet supported. 
-Indepth supports java versions 8 to 18. 
+It has to be a Maven project. Gradle projects are not yet supported. 
+Indepth can handle java versions from 8 to 18. 
 
 You can also declare a git repository as source or a local directory on your workstation. 
 
-If you are working on an Open source project we invite you to configure the git repository otherwise your project will not be considered an Open source project and you will not be able to apply the modifications made by Indepth.
+If you are working on an Open source project, we invite you to set up the git repository otherwise your project will not be considered an Open source project and you will not be able to apply the modifications made by Indepth.
 
 ## Rules setup
 
-Before launching a remediation you must configure the rule to apply. 
+Before launching a remediation you have to setup the rule to apply. 
 You cannot currently specify multiple rules because we believe code remediation should be done very carefully.
 
-## Start a code remediation
+## Start a code remediation
 
-If you have a commercial license or the project is open source, you can instruct Indepth not to apply code changes (dry run mode). 
+If you have a commercial license or if the project is open source, you can instruct Indepth not to apply code changes (dry run mode). 
 
-In this case you will be able to observe the modifications that the solution could make to your code. 
+In this case you will be able to observe the modifications that Indepth proposes. 
 
 For commercial licenses (not open source projects) if you ask Indepth to apply changes in the code, credits will be consumed from the enterprise license. 
 There will not be the possibility of canceling the consumption of credits.
 
 You cannot currently launch multiple code remediations simultaneously in the same company.
-This shouldn't be a problem because the runs only last a few seconds or minutes.
+This shouldn't be a problem because the runs only last few seconds or minutes.
 
 ## Reporting
 
 You can analyze previous results at any time.
-You can see the history of code remediation executions, or view a summary of an execution or even view, in the form of a diff, the details of an execution, i.e. the code modifications made or suggested by Indepth.
+You can see the history of code remediation executions, or view a summary of an execution and even (in the form of a diff), the details of an execution (the code modifications made or suggested by Indepth).
 
 
 ## Start Indepth client application
