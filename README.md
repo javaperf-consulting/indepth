@@ -86,13 +86,13 @@ Project commandes
 
 ## Registration
 
-Before any use, it is necessary to create an account. 
-Be careful because this data will no longer be editable. 
-They will be used to secure access to data resulting from code remediations that you will subsequently carry out.
+You have to create an account before any use. 
+Be careful because data will no longer be editable. 
+They will be used to secure access to data resulting from code remediations.
 
 ## User profil
 
-Overall there are 3 usage profiles:
+Overall there are 3 types of profile:
 
 - during registration you are considered as a user wishing to test the application. 
 You can use all features that do not require higher rights. 
@@ -100,11 +100,11 @@ But you will only be able to use Indepth in a demonstration mode which does not 
 You will only be able to see what Indepth would have done if you had a commercial license. 
 **For open source projects, code remediations are free of charge.**
 
-- If your company has a commercial license, you will be able to request Indepth to make changes to your code within the limits of the credits available on the company's license.
-The features that you can use again depend on your profile. 
-If you are designated as a **solution administrator** you will have more possibilities than enterprise users who are not an Indepth administrator. 
+- If your company has a commercial license, you will be able to modify to your code within the limits of the credits available on the company's license.
+The features that you can use depend on your profile. 
+If you are designated as a **solution administrator** you will have more possibilities than compagny users who are not an Indepth administrator. 
 For example, as a **solution administrator** you can deregister users when they leave the company.
-The designation of the administrator(s) of the solution is made when requesting the license.
+The designation of the administrator(s) is made when requesting your Indepth license.
 
 ## Project setup
 
