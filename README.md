@@ -56,11 +56,15 @@ Launch a console then move to the directory where **Indepth-cli** was copied.
 Then launch **Indepth-cli** with the following command java -jar indepth-cli-&lt;version&gt;.jar
 
 Watch the video 
-https://www.indepth.fr/video/Install_indepth_client_app.mp4
+https://www.indepth.fr/video/indepth_install_client_app.mp4
 
 #### Create an account and setup a project
 
-All you need to do when using Indepth for the first time is to register and create a project. A video is better than a long speech https://www.indepth.fr/video/run_indepth_client_app.mp4
+All you need to do when using Indepth for the first time is to register and create a project. A video is better than a long speech https://www.indepth.fr/video/indepth_setup_client_app.mp4
+
+#### Running a code remediation
+
+After the registration, you can signin (at the beginning of the session), then choose a rule to apply, run a remediation and show reports https://www.indepth.fr/video/indepth_running_example.mp4
 
 ### Indepth cli commands
 
