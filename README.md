@@ -43,6 +43,8 @@ To find out the details of the defects that Indepth fixes please visit the [proj
 
 ### INSTALLING & RUNNING
 
+#### Installing
+
 To install and run **Indepth-cli**, you need at least Java 8.
 
 You need to download the latest version of the **Indepth-cli** application from https://github.com/javaperf-consulting/indepth/releases.
@@ -53,10 +55,12 @@ Launch a console then move to the directory where **Indepth-cli** was copied.
 
 Then launch **Indepth-cli** with the following command java -jar indepth-cli-&lt;version&gt;.jar
 
-
 Watch the video 
 https://www.indepth.fr/video/Install_indepth_client_app.mp4
 
+#### Create an account and setup a project
+
+All you need to do when using Indepth for the first time is to register and create a project. A video is better than a long speech https://www.indepth.fr/video/run_indepth_client_app.mp4
 
 ### Indepth cli commands
 
