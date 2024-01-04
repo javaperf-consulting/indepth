@@ -7,7 +7,7 @@
 It also automatically applies patches in the source code.
 
 **Indepth-cli** is very flexible. It allows you to determine the part of the project you want to analyze and fix it. 
-The dry-run mode enables you to visualize the patches tant Indepth would apply automatically.
+The dry-run mode enables you to visualize the patches that Indepth would apply automatically.
 You can also choose the issue you want to correct.
 
 After the application of patches by Indepth, you should always test your app.
